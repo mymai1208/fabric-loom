@@ -8,7 +8,7 @@ A [Gradle](https://gradle.org/) plugin to setup a deobfuscated development envir
 * Built in support for IntelliJ IDEA, Eclipse and Visual Studio Code to generate run configurations for Minecraft.
 * Loom targets the latest version of Gradle 7 or newer 
 * Supports Java 16 upwards
-* Fix#1147 Thank you SpaceWalkerRS
+* Fix #1147 Thank you SpaceWalkerRS
 
 ## Use Loom to develop mods
 
